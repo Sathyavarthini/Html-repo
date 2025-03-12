@@ -1,0 +1,33 @@
+*{
+    margin: 20px;
+}
+p{
+    color: darkred;
+   
+}
+#portfolioheader{
+    color: cornflowerblue;
+}
+.portfoliopara{
+    background-color: darkgreen;
+    color: black;
+
+}
+h1{
+    font-size: 24px;
+    color:#004080;
+    text-align: center;
+}
+.employee-name{
+    font-weight: bold;
+    color: #333;
+}
+#ceo{
+    font-size: 20px;
+    color: #ff6600;
+    background-color: brown;
+}
+button{
+    background-color: #008CBA;
+    -moz-text-decoration-color: white;
+}
